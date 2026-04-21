@@ -1,0 +1,15 @@
+{
+  "name": "webclips-wiki",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "docs:sync": "node .tools/sync-docs.mjs",
+    "docs:dev": "node .tools/sync-docs.mjs && vitepress dev docs",
+    "docs:build": "node .tools/sync-docs.mjs && vitepress build docs",
+    "docs:preview": "vitepress preview docs",
+    "vault:build": "node .tools/build-vault.mjs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.3"
+  }
+}
