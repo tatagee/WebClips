@@ -1,34 +1,35 @@
 #!/bin/bash
 
-echo "🚀 开始部署 WebClips 知识库..."
+# WebClips 启动脚本
+# 端口 9005（由 DevDock 统一管理，避免与 Nginx :80 冲突）
 
-# 切换到脚本所在目录
+PORT="${PORT:-9005}"
+
 cd "$(dirname "$0")"
 
+# 解析参数
+FOREGROUND=false
+for arg in "$@"; do
+  case "$arg" in
+    --foreground) FOREGROUND=true ;;
+  esac
+done
+
 # 1. 安装依赖
-echo "📦 正在检查并安装依赖 (npm install)..."
 if [ ! -d "node_modules" ]; then
-    npm install
+  echo "📦 安装依赖..."
+  npm install
+fi
+
+# 2. 同步内容到 docs/
+echo "🔄 同步内容..."
+npm run docs:sync 2>/dev/null || true
+
+# 3. 启动 VitePress 开发服务器
+echo "🌐 启动 WebClips (端口 $PORT)..."
+if [ "$FOREGROUND" = true ]; then
+  exec npx vitepress dev docs --host --port "$PORT"
 else
-    echo "✅ 依赖已安装，跳过 (如需重新安装请手动删除 node_modules 目录)。"
+  nohup npx vitepress dev docs --host --port "$PORT" > nohup.log 2>&1 &
+  echo "✅ WebClips 已在后台启动 (PID: $!)"
 fi
-
-# 2. 同步内容
-echo "🔄 正在同步内容到 docs/ 目录..."
-npm run docs:sync
-
-# 3. 释放端口
-echo "🧹 检查并清理已被占用的 80 端口..."
-PIDS=$(sudo lsof -t -i:80)
-if [ ! -z "$PIDS" ]; then
-    echo "⚠️ 发现 80 端口已被进程占用，正在强制停止旧服务 (PID: $PIDS)..."
-    sudo kill -9 $PIDS
-    sleep 1
-    echo "✅ 旧服务已清理完毕。"
-fi
-
-# 4. 启动服务
-echo "🌐 启动 VitePress 服务..."
-# 这里使用 sudo 运行 vitepress dev，并指定 --port 80 和 --host 0.0.0.0
-# 局域网其他设备可以直接通过 IP 访问（无需加端口号）
-sudo npx vitepress dev docs --host --port 80
