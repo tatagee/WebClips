@@ -16,3 +16,9 @@ docs/.vitepress/cache/
 
 # OS
 .DS_Store
+
+# 01_Inbox - 保留在 Google Drive 中，不纳入版本控制
+01_Inbox/
+
+# PDF 文件 - 网页展示和 Obsidian 查看不需要
+*.pdf
