@@ -1,5 +1,5 @@
 # 📚 WebClips Raw Library Index
-> 自动生成 by /organize-webclips | LLM 编译的知识库 | 最后编译: 2026-04-21 | 共 36 个概念 | 共 50 篇
+> 自动生成 by /organize-webclips | LLM 编译的知识库 | 最后编译: 2026-04-21 | 共 36 个概念 | 共 55 篇
 
 ## 按分类统计
 | 分类 | 篇数 | 已编译到 Wiki |
@@ -7,9 +7,9 @@
 | ADK_Agent_Skills | 8 | 8 |
 | AI_IDE_And_CLI | 13 | 13 |
 | AI_Prompt_Engineering | 4 | 4 |
-| Agent_Architecture | 11 | 11 |
+| Agent_Architecture | 13 | 11 |
 | Agent_Course | 1 | 1 |
-| Claude_Code_Skills | 6 | 6 |
+| Claude_Code_Skills | 9 | 6 |
 | Life_Strategy | 1 | 1 |
 | NotebookLM_Workflows | 6 | 6 |
 
@@ -66,6 +66,8 @@
 | 9 | AI Cybersecurity After Mythos: The Jagged Frontier | aisle.com | 2026-04-21 | distilled | ✅ |
 | 10 | How Complex is my Code? | philodev.one | 2026-04-21 | distilled | ✅ |
 | 11 | 发现意图：AI 时代的用户体验设计 | x.com | 2026-04-21 | distilled | ✅ |
+| 12 | What to Learn, Build, and Skip in AI Agents (2026) | x.com | 2026-05-06 | distilled | ✅ |
+| 13 | 从一个 Agent 到一支队伍：Hermes 多 Agent 部署流程 | x.com | 2026-05-06 | distilled | ✅ |
 
 ### [Agent_Course]
 | # | 标题 | 来源域名 | 剪藏日期 | Status | Compiled |
@@ -81,6 +83,9 @@
 | 4 | Lessons from Building Claude Code: How We Use Skills | x.com | 2026-04-04 | distilled | ✅ |
 | 5 | wiki-gen-skill.md | unknown | 2026-04-06 | distilled | ✅ |
 | 6 | Google engineer automated 80% of his work with Claude Code. here's the exact system he built. | x.com | 2026-04-18 | distilled | ✅ |
+| 7 | 21 Things most claude users have Never Set Up and It's Costing them Hours Every Week | x.com | 2026-05-06 | distilled | ✅ |
+| 8 | I Tried 100+ Claude Code Skills. These 6 Are The Best | x.com | 2026-05-06 | distilled | ✅ |
+| 9 | 优化这七个Token消耗陷阱，你的Claude Code可以多用三倍 | x.com | 2026-05-06 | distilled | ✅ |
 
 ### [Life_Strategy]
 | # | 标题 | 来源域名 | 剪藏日期 | Status | Compiled |
@@ -95,4 +100,4 @@
 | 3 | How to learn anything 10x faster with Notebook LM in 7 days (Bonus Prompts included) | x.com | 2026-04-04 | distilled | ✅ |
 | 4 | Integrate NotebookLM with Gemini CLI, Google Antigravity or Other Agents with MCP | medium.com | 2026-04-04 | distilled | ✅ |
 | 5 | 用 LLM + Obsidian 构建个人知识库：基于 Karpathy 的“LLM Knowledge Bases”工作流 | x.com | 2026-04-04 | distilled | ✅ |
-| 6 | 用好NotebookLM立省80%Token | x.com | 2026-04-21 | raw | ❌ |
+| 6 | 用好NotebookLM立省80%Token | x.com | 2026-04-21 | distilled | ✅ |

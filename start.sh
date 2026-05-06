@@ -6,6 +6,7 @@
 PORT="${PORT:-9005}"
 
 cd "$(dirname "$0")"
+cd tools
 
 # 解析参数
 FOREGROUND=false

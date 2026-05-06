@@ -91,3 +91,18 @@
 ## [2026-04-21] lint | 健康评分 8.5/10
 - 报告: 04_Output/lint-report-2026-04-21.md
 - 关键发现: 识别出 3 个未索引概念及 10 处缺失的实践指南；新入库文章与上下文优化概念存在强关联。
+
+## [2026-05-06] organize | 5 篇文章入库
+- 新增分类: (无)
+- 入库文章:
+  - [Claude_Code_Skills] 21 Things most claude users have Never Set Up and It's Costing them Hours Every Week
+  - [Claude_Code_Skills] I Tried 100+ Claude Code Skills. These 6 Are The Best
+  - [Agent_Architecture] What to Learn, Build, and Skip in AI Agents (2026)
+  - [Agent_Architecture] 从一个 Agent 到一支队伍：Hermes 多 Agent 部署流程
+  - [Claude_Code_Skills] 优化这七个Token消耗陷阱，你的Claude Code可以多用三倍
+
+## [2026-05-06] compile | 增量编译 6 篇文章
+- 新建概念 (5个): notebooklm-as-rag, claude-code-overhead, hermes-agent-framework, orchestrator-subagent-pattern, agent-evals
+## [2026-05-06] lint | 健康评分 10/10
+- 报告: 04_Output/lint-report-2026-05-06.md
+- 关键发现: 编译覆盖率 100%，无未编译文章。发现概念 notebooklm-as-rag 与 claude-code-overhead 具有潜在关联。
