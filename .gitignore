@@ -14,6 +14,10 @@ docs/.vitepress/cache/
 05_Vault/*
 !05_Vault/.obsidian/
 
+# Python
+__pycache__/
+*.pyc
+
 # OS
 .DS_Store
 
