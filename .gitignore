@@ -2,13 +2,13 @@
 node_modules/
 
 # VitePress 生成内容（由 sync-docs.mjs 动态生成，不需要版本控制）
-docs/wiki/
-docs/library/
-docs/output/
-docs/index.md
-docs/.vitepress/sidebar.json
-docs/.vitepress/dist/
-docs/.vitepress/cache/
+tools/docs/wiki/
+tools/docs/library/
+tools/docs/output/
+tools/docs/index.md
+tools/docs/.vitepress/sidebar.json
+tools/docs/.vitepress/dist/
+tools/docs/.vitepress/cache/
 
 # 离线手机版 Vault (动态生成，无需版本控制，但保留 .obsidian 配置)
 05_Vault/*
