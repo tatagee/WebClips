@@ -1,0 +1,476 @@
+{
+  "/wiki/": [
+    {
+      "text": "📖 概念文章",
+      "collapsed": false,
+      "items": [
+        {
+          "text": "Agent-Computer Interface (ACI)",
+          "link": "/wiki/concepts/agent-computer-interface"
+        },
+        {
+          "text": "Agent 策展式记忆 (Agent-Curated Memory)",
+          "link": "/wiki/concepts/agent-curated-memory"
+        },
+        {
+          "text": "Agent Harness 模式",
+          "link": "/wiki/concepts/agent-harness-pattern"
+        },
+        {
+          "text": "智能体核心模块架构 (Modular Agent Framework)",
+          "link": "/wiki/concepts/agent-modular-architecture"
+        },
+        {
+          "text": "团队模式 (Agent Teams)",
+          "link": "/wiki/concepts/agent-teams-pattern"
+        },
+        {
+          "text": "Agentic Patterns (智能体设计模式)",
+          "link": "/wiki/concepts/agentic-patterns"
+        },
+        {
+          "text": "指令 vs 技能 (Agents vs Skills)",
+          "link": "/wiki/concepts/agents-vs-skills"
+        },
+        {
+          "text": "AI 辅助工作流 (AI-Assisted Workflow)",
+          "link": "/wiki/concepts/ai-assisted-workflow"
+        },
+        {
+          "text": "AI 原生 CI/CD (AI-Native CI/CD)",
+          "link": "/wiki/concepts/ai-native-ci-cd"
+        },
+        {
+          "text": "反 AI 写作风格 (Anti-AI Writing Style)",
+          "link": "/wiki/concepts/anti-ai-writing-style"
+        },
+        {
+          "text": "产物驱动的任务拆解 (Artifact-Driven Decomposition)",
+          "link": "/wiki/concepts/artifact-driven-decomposition"
+        },
+        {
+          "text": "Augmented LLM (增强型 LLM)",
+          "link": "/wiki/concepts/augmented-llm"
+        },
+        {
+          "text": "自动研究法 (Autoresearch Method)",
+          "link": "/wiki/concepts/autoresearch-method"
+        },
+        {
+          "text": "代理能力扩展库架构 (Claude Code Agent OS)",
+          "link": "/wiki/concepts/claude-code-agent-os"
+        },
+        {
+          "text": "Claude Code Mastery (进阶技巧)",
+          "link": "/wiki/concepts/claude-code-mastery"
+        },
+        {
+          "text": "Context Optimization (上下文优化)",
+          "link": "/wiki/concepts/context-optimization"
+        },
+        {
+          "text": "显式外部状态记忆 (Explicit External State)",
+          "link": "/wiki/concepts/explicit-external-state"
+        },
+        {
+          "text": "生成验证者模式 (Generator-Verifier Pattern)",
+          "link": "/wiki/concepts/generator-verifier-pattern"
+        },
+        {
+          "text": "IDE Evolution (IDE 的演进)",
+          "link": "/wiki/concepts/ide-evolution"
+        },
+        {
+          "text": "意图委托 UX 范式 (Intent Delegation UX)",
+          "link": "/wiki/concepts/intent-delegation-ux"
+        },
+        {
+          "text": "能力锯齿边缘与安全护城河 (Jagged Frontier)",
+          "link": "/wiki/concepts/jagged-frontier-security"
+        },
+        {
+          "text": "Karpathy 的 Claude 规则 (Karpathy's Claude Rules)",
+          "link": "/wiki/concepts/karpathy-claude-rules"
+        },
+        {
+          "text": "极简 AI 启动栈 (Lean AI Stack)",
+          "link": "/wiki/concepts/lean-ai-stack-bootstrapping"
+        },
+        {
+          "text": "语言学代码复杂度 (Linguistic Code Complexity)",
+          "link": "/wiki/concepts/linguistic-code-complexity"
+        },
+        {
+          "text": "LLM Augmented Wiki (LLM 增强知识库)",
+          "link": "/wiki/concepts/llm-augmented-wiki"
+        },
+        {
+          "text": "LLM 知识编译 (LLM Knowledge Compilation)",
+          "link": "/wiki/concepts/llm-knowledge-compilation"
+        },
+        {
+          "text": "记忆干预与整理机制 (Memory Nudge Mechanism)",
+          "link": "/wiki/concepts/memory-nudge-mechanism"
+        },
+        {
+          "text": "消息总线模式 (Message Bus Pattern)",
+          "link": "/wiki/concepts/message-bus-pattern"
+        },
+        {
+          "text": "多 Agent 编排模式 (Multi-Agent Orchestrator)",
+          "link": "/wiki/concepts/multi-agent-orchestrator"
+        },
+        {
+          "text": "窄作用域 AI 代码审查 (Narrow Scope AI Review)",
+          "link": "/wiki/concepts/narrow-scope-ai-review"
+        },
+        {
+          "text": "NotebookLM RAG 编排模式 (TAP 模型)",
+          "link": "/wiki/concepts/notebooklm-rag-orchestration"
+        },
+        {
+          "text": "Obsidian 作为第二大脑 (Obsidian as Second Brain)",
+          "link": "/wiki/concepts/obsidian-as-second-brain"
+        },
+        {
+          "text": "渐进式披露 (Progressive Disclosure)",
+          "link": "/wiki/concepts/progressive-disclosure"
+        },
+        {
+          "text": "角色划分反模式 (Role-based Agent Anti-pattern)",
+          "link": "/wiki/concepts/role-based-agent-anti-pattern"
+        },
+        {
+          "text": "自愈反馈闭环 (Self-Healing Feedback Loop)",
+          "link": "/wiki/concepts/self-healing-feedback-loop"
+        },
+        {
+          "text": "共享状态模式 (Shared-state Pattern)",
+          "link": "/wiki/concepts/shared-state-pattern"
+        },
+        {
+          "text": "技能设计模式 (Skill Design Patterns)",
+          "link": "/wiki/concepts/skill-design-patterns"
+        },
+        {
+          "text": "Skill Lifecycle (技能生命周期)",
+          "link": "/wiki/concepts/skill-lifecycle"
+        },
+        {
+          "text": "垂直切片 Issue (Vertical Slice Issues)",
+          "link": "/wiki/concepts/vertical-slice-issues"
+        },
+        {
+          "text": "Wiki Automated Generation (Wiki 自动化生成)",
+          "link": "/wiki/concepts/wiki-automated-generation"
+        },
+        {
+          "text": "Workflows vs Agents (工作流 vs 智能体)",
+          "link": "/wiki/concepts/workflows-vs-agents"
+        }
+      ]
+    },
+    {
+      "text": "🔗 关联分析",
+      "collapsed": false,
+      "items": [
+        {
+          "text": "成本博弈：缓存命中 vs. RAG 引擎",
+          "link": "/wiki/connections/caching-vs-rag-economics"
+        },
+        {
+          "text": "在失忆中长存：外部状态如何支撑 Agent 走得更远",
+          "link": "/wiki/connections/harness-vs-state-memory"
+        },
+        {
+          "text": "知识编译 vs 向量检索 (RAG)",
+          "link": "/wiki/connections/knowledge-compilation-vs-rag"
+        },
+        {
+          "text": "重构分工：角色的消亡与能力的兴起",
+          "link": "/wiki/connections/role-based-vs-capability-decomposition"
+        },
+        {
+          "text": "架构对比：Workflows 对比 Agents",
+          "link": "/wiki/connections/workflows-vs-agents"
+        }
+      ]
+    },
+    {
+      "text": "❓ Q&A 记录",
+      "collapsed": true,
+      "items": [
+        {
+          "text": "Q: Skills 有什么用，和 MCP 有什么区别？",
+          "link": "/wiki/questions/2026-04-04-skills-vs-mcp"
+        }
+      ]
+    }
+  ],
+  "/library/": [
+    {
+      "text": "🤖 ADK Agent Skills",
+      "collapsed": true,
+      "items": [
+        {
+          "text": "5-Agent-Skill-Design-Patterns-Every-ADK-Develop...",
+          "link": "/library/ADK_Agent_Skills/ADK_Agent_Skills%20-%205-Agent-Skill-Design-Patterns-Every-ADK-Developer-Should-Know"
+        },
+        {
+          "text": "ADK-Agent-Skills-Progressive-Disclosure-with-Sk...",
+          "link": "/library/ADK_Agent_Skills/ADK_Agent_Skills%20-%20ADK-Agent-Skills-Progressive-Disclosure-with-SkillToolset-(Part-1)"
+        },
+        {
+          "text": "ADK-SkillToolset-File-Based-&-External-Skills-T...",
+          "link": "/library/ADK_Agent_Skills/ADK_Agent_Skills%20-%20ADK-SkillToolset-File-Based-%26-External-Skills-Tutorial-(Part-2)"
+        },
+        {
+          "text": "Antigravity-Skill-Tutorial-PDF-Splitter",
+          "link": "/library/ADK_Agent_Skills/ADK_Agent_Skills%20-%20Antigravity-Skill-Tutorial-PDF-Splitter"
+        },
+        {
+          "text": "Closing the knowledge gap with agent skills",
+          "link": "/library/ADK_Agent_Skills/ADK_Agent_Skills%20-%20Closing%20the%20knowledge%20gap%20with%20agent%20skills"
+        },
+        {
+          "text": "My AI-Assisted workflow",
+          "link": "/library/ADK_Agent_Skills/ADK_Agent_Skills%20-%20My%20AI-Assisted%20workflow"
+        },
+        {
+          "text": "Production-grade engineering skills for AI codi...",
+          "link": "/library/ADK_Agent_Skills/ADK_Agent_Skills%20-%20Production-grade%20engineering%20skills%20for%20AI%20coding%20agents"
+        },
+        {
+          "text": "Self-Extending-ADK-Agents-Meta-Skills-That-Writ...",
+          "link": "/library/ADK_Agent_Skills/ADK_Agent_Skills%20-%20Self-Extending-ADK-Agents-Meta-Skills-That-Write-SKILL-Files-(Part-3).md"
+        }
+      ]
+    },
+    {
+      "text": "💻 AI IDE & CLI",
+      "collapsed": true,
+      "items": [
+        {
+          "text": "Best Practices for Claude Code",
+          "link": "/library/AI_IDE_And_CLI/AI_IDE_And_CLI%20-%20Best%20Practices%20for%20Claude%20Code"
+        },
+        {
+          "text": "Claude Code 完全リファレンス — 全機能網羅+意外と知らない便利機能トップ10",
+          "link": "/library/AI_IDE_And_CLI/AI_IDE_And_CLI%20-%20Claude%20Code%20%E5%AE%8C%E5%85%A8%E3%83%AA%E3%83%95%E3%82%A1%E3%83%AC%E3%83%B3%E3%82%B9%20%E2%80%94%20%E5%85%A8%E6%A9%9F%E8%83%BD%E7%B6%B2%E7%BE%85%2B%E6%84%8F%E5%A4%96%E3%81%A8%E7%9F%A5%E3%82%89%E3%81%AA%E3%81%84%E4%BE%BF%E5%88%A9%E6%A9%9F%E8%83%BD%E3%83%88%E3%83%83%E3%83%9710"
+        },
+        {
+          "text": "Document-Creation-with-Antigravity-and-NotebookLM",
+          "link": "/library/AI_IDE_And_CLI/AI_IDE_And_CLI%20-%20Document-Creation-with-Antigravity-and-NotebookLM"
+        },
+        {
+          "text": "Hermes 全部高阶工具配置",
+          "link": "/library/AI_IDE_And_CLI/AI_IDE_And_CLI%20-%20Hermes%20%E5%85%A8%E9%83%A8%E9%AB%98%E9%98%B6%E5%B7%A5%E5%85%B7%E9%85%8D%E7%BD%AE"
+        },
+        {
+          "text": "How Claude remembers your project",
+          "link": "/library/AI_IDE_And_CLI/AI_IDE_And_CLI%20-%20How%20Claude%20remembers%20your%20project"
+        },
+        {
+          "text": "How I run 10K MRR on 20 budget",
+          "link": "/library/AI_IDE_And_CLI/AI_IDE_And_CLI%20-%20How%20I%20run%2010K%20MRR%20on%2020%20budget"
+        },
+        {
+          "text": "Is the IDE dead_",
+          "link": "/library/AI_IDE_And_CLI/AI_IDE_And_CLI%20-%20Is%20the%20IDE%20dead_"
+        },
+        {
+          "text": "Run multiple agents at once with _fleet in Copi...",
+          "link": "/library/AI_IDE_And_CLI/AI_IDE_And_CLI%20-%20Run%20multiple%20agents%20at%20once%20with%20_fleet%20in%20Copilot%20CLI"
+        },
+        {
+          "text": "Set up your coding assistant with Gemini MCP an...",
+          "link": "/library/AI_IDE_And_CLI/AI_IDE_And_CLI%20-%20Set%20up%20your%20coding%20assistant%20with%20Gemini%20MCP%20and%20Skills%20%C2%A0_%C2%A0%20Gemini%20API"
+        },
+        {
+          "text": "Top-Questions-Answered-Getting-Started-with-Ant...",
+          "link": "/library/AI_IDE_And_CLI/AI_IDE_And_CLI%20-%20Top-Questions-Answered-Getting-Started-with-Antigravity"
+        },
+        {
+          "text": "【2026年最新版】Gemini-CLIで行うべきセキュリティ設定-10選",
+          "link": "/library/AI_IDE_And_CLI/AI_IDE_And_CLI%20-%20%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E7%89%88%E3%80%91Gemini-CLI%E3%81%A7%E8%A1%8C%E3%81%86%E3%81%B9%E3%81%8D%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E8%A8%AD%E5%AE%9A-10%E9%81%B8"
+        },
+        {
+          "text": "【入門記事】ClaudeCodeの中級者になりたい人は集合してください",
+          "link": "/library/AI_IDE_And_CLI/AI_IDE_And_CLI%20-%20%E3%80%90%E5%85%A5%E9%96%80%E8%A8%98%E4%BA%8B%E3%80%91ClaudeCode%E3%81%AE%E4%B8%AD%E7%B4%9A%E8%80%85%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%9F%E3%81%84%E4%BA%BA%E3%81%AF%E9%9B%86%E5%90%88%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84"
+        },
+        {
+          "text": "【全自動に超進化】100ページ超のPDF要件定義書も余裕！Antigravityだけで一気に設...",
+          "link": "/library/AI_IDE_And_CLI/AI_IDE_And_CLI%20-%20%E3%80%90%E5%85%A8%E8%87%AA%E5%8B%95%E3%81%AB%E8%B6%85%E9%80%B2%E5%8C%96%E3%80%91100%E3%83%9A%E3%83%BC%E3%82%B8%E8%B6%85%E3%81%AEPDF%E8%A6%81%E4%BB%B6%E5%AE%9A%E7%BE%A9%E6%9B%B8%E3%82%82%E4%BD%99%E8%A3%95%EF%BC%81Antigravity%E3%81%A0%E3%81%91%E3%81%A7%E4%B8%80%E6%B0%97%E3%81%AB%E8%A8%AD%E8%A8%88%E4%B9%A6%E3%81%AB%E8%90%BD%E3%81%A8%E3%81%97%E8%BE%BC%E3%82%80%EF%BC%81"
+        }
+      ]
+    },
+    {
+      "text": "✍️ AI Prompt Engineering",
+      "collapsed": true,
+      "items": [
+        {
+          "text": "How to set up Claude Cowork (the April 2026 upd...",
+          "link": "/library/AI_Prompt_Engineering/AI_Prompt_Engineering%20-%20How%20to%20set%20up%20Claude%20Cowork%20(the%20April%202026%20update)_"
+        },
+        {
+          "text": "I stopped hitting Claude's usage limits - 10 th...",
+          "link": "/library/AI_Prompt_Engineering/AI_Prompt_Engineering%20-%20I%20stopped%20hitting%20Claude's%20usage%20limits%20-%2010%20things%20I%20changed"
+        },
+        {
+          "text": "Prompting is the worst way to use Claude. Do th...",
+          "link": "/library/AI_Prompt_Engineering/AI_Prompt_Engineering%20-%20Prompting%20is%20the%20worst%20way%20to%20use%20Claude.%20Do%20this%20instead_"
+        },
+        {
+          "text": "搞懂 KV 缓存省 80 Token",
+          "link": "/library/AI_Prompt_Engineering/AI_Prompt_Engineering%20-%20%E6%90%9E%E6%87%82%20KV%20%E7%BC%93%E5%AD%98%E7%9C%81%2080%20Token"
+        }
+      ]
+    },
+    {
+      "text": "🏗️ Agent Architecture",
+      "collapsed": true,
+      "items": [
+        {
+          "text": "AGENTS outperforms skills in our agent evals.md",
+          "link": "/library/Agent_Architecture/Agent_Architecture%20-%20AGENTS%C2%A0outperforms%20skills%20in%20our%20agent%20evals.md"
+        },
+        {
+          "text": "AI Cybersecurity After Mythos",
+          "link": "/library/Agent_Architecture/Agent_Architecture%20-%20AI%20Cybersecurity%20After%20Mythos"
+        },
+        {
+          "text": "AI 时代的 UX 设计范式转变",
+          "link": "/library/Agent_Architecture/Agent_Architecture%20-%20AI%20%E6%97%B6%E4%BB%A3%E7%9A%84%20UX%20%E8%AE%BE%E8%AE%A1%E8%8C%83%E5%BC%8F%E8%BD%AC%E5%8F%98"
+        },
+        {
+          "text": "Building Effective AI Agents",
+          "link": "/library/Agent_Architecture/Agent_Architecture%20-%20Building%20Effective%20AI%20Agents"
+        },
+        {
+          "text": "Effective harnesses for long-running agents",
+          "link": "/library/Agent_Architecture/Agent_Architecture%20-%20Effective%20harnesses%20for%20long-running%20agents"
+        },
+        {
+          "text": "Harness-design-for-long-running-application-dev...",
+          "link": "/library/Agent_Architecture/Agent_Architecture%20-%20Harness-design-for-long-running-application-development"
+        },
+        {
+          "text": "Hermes Agent 从中级到高级进阶指南",
+          "link": "/library/Agent_Architecture/Agent_Architecture%20-%20Hermes%20Agent%20%E4%BB%8E%E4%B8%AD%E7%BA%A7%E5%88%B0%E9%AB%98%E7%BA%A7%E8%BF%9B%E9%98%B6%E6%8C%87%E5%8D%97"
+        },
+        {
+          "text": "How Complex is my Code",
+          "link": "/library/Agent_Architecture/Agent_Architecture%20-%20How%20Complex%20is%20my%20Code"
+        },
+        {
+          "text": "Multi-agent coordination patterns_ Five approac...",
+          "link": "/library/Agent_Architecture/Agent_Architecture%20-%20Multi-agent%20coordination%20patterns_%20Five%20approaches%20and%20when%20to%20use%20them"
+        },
+        {
+          "text": "Why Your “AI-First” Strategy Is Probably Wrong",
+          "link": "/library/Agent_Architecture/Agent_Architecture%20-%20Why%20Your%20%E2%80%9CAI-First%E2%80%9D%20Strategy%20Is%20Probably%20Wrong"
+        },
+        {
+          "text": "三省六部幻觉：为什么_虚拟公司_式多Agent架构在工程上不成立",
+          "link": "/library/Agent_Architecture/Agent_Architecture%20-%20%E4%B8%89%E7%9C%81%E5%85%AD%E9%83%A8%E5%B9%BB%E8%A7%89%EF%BC%9A%E4%B8%BA%E4%BB%80%E4%B9%88_%E8%99%9A%E6%8B%9F%E5%85%AC%E5%8F%B8_%E5%BC%8F%E5%A4%9AAgent%E6%9E%B6%E6%9E%84%E5%9C%A8%E5%B7%A5%E7%A8%8B%E4%B8%8A%E4%B8%8D%E6%88%90%E7%AB%8B"
+        }
+      ]
+    },
+    {
+      "text": "📚 Agent Course",
+      "collapsed": true,
+      "items": [
+        {
+          "text": "I want to build an AI agent today (full course)_",
+          "link": "/library/Agent_Course/Agent_Course%20-%20I%20want%20to%20build%20an%20AI%20agent%20today%20(full%20course)_"
+        }
+      ]
+    },
+    {
+      "text": "🧩 Claude Code Skills",
+      "collapsed": true,
+      "items": [
+        {
+          "text": "Anatomy of the .claude_ folder",
+          "link": "/library/Claude_Code_Skills/Claude_Code_Skills%20-%20Anatomy%20of%20the%20.claude_%20folder"
+        },
+        {
+          "text": "Claude-Code-Skills-完全活用ガイド-2026-—-個人最適化から团队展开まで",
+          "link": "/library/Claude_Code_Skills/Claude_Code_Skills%20-%20Claude-Code-Skills-%E5%AE%8C%E5%85%A8%E6%B4%BB%E7%94%A8%E3%82%AC%E3%82%A4%E3%83%89-2026-%E2%80%94-%E5%80%8B%E4%BA%BA%E6%9C%80%E9%81%A9%E5%8C%96%E3%81%8B%E3%82%89%E5%9B%A2%E9%98%9F%E5%B1%95%E5%BC%80%E3%81%BE%E3%81%A7"
+        },
+        {
+          "text": "Google engineer automated 80percent of his work...",
+          "link": "/library/Claude_Code_Skills/Claude_Code_Skills%20-%20Google%20engineer%20automated%2080percent%20of%20his%20work%20with%20Claude%20Code.%20here's%20the%20exact%20system%20he%20built."
+        },
+        {
+          "text": "How-to-10x-your-Claude-Skills-(using-Karpathys-...",
+          "link": "/library/Claude_Code_Skills/Claude_Code_Skills%20-%20How-to-10x-your-Claude-Skills-(using-Karpathys-autoresearch-method)"
+        },
+        {
+          "text": "Lessons-from-Building-Claude-Code-How-We-Use-Sk...",
+          "link": "/library/Claude_Code_Skills/Claude_Code_Skills%20-%20Lessons-from-Building-Claude-Code-How-We-Use-Skills"
+        },
+        {
+          "text": "wiki-gen-skill",
+          "link": "/library/Claude_Code_Skills/Claude_Code_Skills%20-%20wiki-gen-skill"
+        }
+      ]
+    },
+    {
+      "text": "🌱 Life Strategy",
+      "collapsed": true,
+      "items": [
+        {
+          "text": "How to fix your entire life in 1 day",
+          "link": "/library/Life_Strategy/Life_Strategy%20-%20How%20to%20fix%20your%20entire%20life%20in%201%20day"
+        }
+      ]
+    },
+    {
+      "text": "📓 NotebookLM Workflows",
+      "collapsed": true,
+      "items": [
+        {
+          "text": "Building a Second Brain_ The Definitive Introdu...",
+          "link": "/library/NotebookLM_Workflows/NotebookLM_Workflows%20-%20Building%20a%20Second%20Brain_%20The%20Definitive%20Introductory%20Guide"
+        },
+        {
+          "text": "How-to-learn-anything-10x-faster-with-Notebook-...",
+          "link": "/library/NotebookLM_Workflows/NotebookLM_Workflows%20-%20How-to-learn-anything-10x-faster-with-Notebook-LM-in-7-days-(Bonus-Prompts-included)"
+        },
+        {
+          "text": "Integrate-NotebookLM-with-Gemini-CLI,-Google-An...",
+          "link": "/library/NotebookLM_Workflows/NotebookLM_Workflows%20-%20Integrate-NotebookLM-with-Gemini-CLI%2C-Google-Antigravity-or-Other-Agents-with-MCP"
+        },
+        {
+          "text": "llm-wiki",
+          "link": "/library/NotebookLM_Workflows/NotebookLM_Workflows%20-%20llm-wiki"
+        },
+        {
+          "text": "用 LLM + Obsidian 构建个人知识库：基于 Karpathy 的“LLM Know...",
+          "link": "/library/NotebookLM_Workflows/NotebookLM_Workflows%20-%20%E7%94%A8%20LLM%20%2B%20Obsidian%20%E6%9E%84%E5%BB%BA%E4%B8%AA%E4%BA%BA%E7%9F%A5%E8%AF%86%E5%BA%93%EF%BC%9A%E5%9F%BA%E4%BA%8E%20Karpathy%20%E7%9A%84%E2%80%9CLLM%20Knowledge%20Bases%E2%80%9D%E5%B7%A5%E4%BD%9C%E6%B5%81"
+        },
+        {
+          "text": "用好 NotebookLM 立省 80 Token",
+          "link": "/library/NotebookLM_Workflows/NotebookLM_Workflows%20-%20%E7%94%A8%E5%A5%BD%20NotebookLM%20%E7%AB%8B%E7%9C%81%2080%20Token"
+        }
+      ]
+    }
+  ],
+  "/output/": [
+    {
+      "text": "📊 研究报告",
+      "collapsed": false,
+      "items": [
+        {
+          "text": "2026-04-04-skills-vs-mcp",
+          "link": "/output/summaries/2026-04-04-skills-vs-mcp"
+        },
+        {
+          "text": "2026-04-07-Karpathy-LLM-Wiki-Gap-Analysis",
+          "link": "/output/summaries/2026-04-07-Karpathy-LLM-Wiki-Gap-Analysis"
+        }
+      ]
+    }
+  ]
+}

@@ -10,6 +10,10 @@ tools/docs/.vitepress/sidebar.json
 tools/docs/.vitepress/dist/
 tools/docs/.vitepress/cache/
 
+# 发布文档的本地构建缓存
+docs/.vitepress/cache/
+docs/.vitepress/dist/
+
 # 离线手机版 Vault (动态生成，无需版本控制，但保留 .obsidian 配置)
 05_Vault/*
 !05_Vault/.obsidian/
